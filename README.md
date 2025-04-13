@@ -11,9 +11,11 @@
 Страница Сделать заказ
 
 ![image](https://github.com/user-attachments/assets/4d4f1bf6-d213-4dc5-9ba2-d78e48dd5161)
+
 Чекбоксы
 
 ![image](https://github.com/user-attachments/assets/26196f43-cfe3-40ca-91aa-b569efb77c77)
+
 Чекбоксы
 
 После удачного оформления заказа пользователь увидит сообщение
