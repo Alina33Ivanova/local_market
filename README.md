@@ -8,6 +8,7 @@
 
 На странице Сделать заказ пользователю нужно указать личные данные, предпочитаемый способ оплаты и вид доставки
 ![image](https://github.com/user-attachments/assets/c6d40fc0-47a9-4238-923f-940a958049e8)
+
 Страница Сделать заказ
 
 ![image](https://github.com/user-attachments/assets/4d4f1bf6-d213-4dc5-9ba2-d78e48dd5161)
