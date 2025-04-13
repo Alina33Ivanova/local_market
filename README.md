@@ -1,4 +1,7 @@
+
 <p align="center">
+    ![Снимок экрана (4546)](https://github.com/user-attachments/assets/bb2002e5-976f-4b74-9d45-46c24f445b8a)
+
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
